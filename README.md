@@ -1,2 +1,4 @@
 # VU-minor-RL
-RL agent implementation in order to solve a maze 10X10 with goal and sub-goal
+RL agent implementation and study of the process with and without a sub-goal.
+How the sub-goal influences the learning process of the agent, and how the
+discount factor can enhance the influence of the sub-goal.
